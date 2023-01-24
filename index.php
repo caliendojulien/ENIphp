@@ -21,7 +21,7 @@
     <li><a href="1-bases/fonctionsUtiles/index.php">Les fonctions utiles</a></li>
 <!--    <li><a href="1-bases/tp3/index.php">TP 3 : fonctions utiles</a></li>-->
     <li><a href="1-bases/fonctions/index.php">Les fonctions</a></li>
-    <li><a href="1-bases/tp4/index.php">TP 3 : fonctions</a></li>
+<!--    <li><a href="1-bases/tp4/index.php">TP 3 : fonctions</a></li>-->
 <!--    <li><a href="1-bases/expressionsRationnelles/index.php">Les expressions rationnelles</a></li>-->
 <!--    <li><a href="1-bases/tp5/index.php">TP 5 : expressions rationnelles</a></li>-->
 </ol>
