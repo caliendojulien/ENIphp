@@ -31,7 +31,7 @@
     <li><a href="2-poo/heritage/index.php">L'héritage</a></li>
     <li><a href="2-poo/static/index.php">Les attributs et méthodes de classe</a></li>
     <li><a href="2-poo/classeAbstraite/index.php">Les classes abstraites</a></li>
-    <li><a href="2-poo/tp1/index.php">TP 1 : classes</a></li>
+<!--    <li><a href="2-poo/tp1/index.php">TP 1 : classes</a></li>-->
     <li><a href="2-poo/interface/index.php">Les interfaces</a></li>
     <li><a href="2-poo/exceptions/index.php">Les exceptions</a></li>
 <!--    <li><a href="2-poo/namespace/index.php">Les espaces de nom (namespace)</a></li>-->
