@@ -46,16 +46,16 @@
     <li><a href="3-formulaires/traitementIntegre/index.php">Les Formulaires avec traitement intégré</a></li>
     <li><a href="3-formulaires/tp1/index.php">TP 1 : Formulaires</a></li>
 </ol>
-<!--<h2>L'accès aux données avec PDO</h2>-->
-<!--<ol>-->
-<!--    <li><a href="http://localhost/phpmyadmin/" target="new">PhpMyAdmin</a></li>-->
-<!--    <li><a href="4-accesDonnees/connexion/index.php">La connexion</a></li>-->
-<!--    <li><a href="4-accesDonnees/requeteNonPreparee/index.php">Les requêtes non préparées</a></li>-->
-<!--    <li><a href="4-accesDonnees/requetePreparee/index.php">Les requêtes préparées</a></li>-->
+<h2>L'accès aux données avec PDO</h2>
+<ol>
+    <li><a href="http://localhost/phpmyadmin/" target="new">PhpMyAdmin</a></li>
+    <li><a href="4-accesDonnees/connexion/index.php">La connexion</a></li>
+    <li><a href="4-accesDonnees/requeteNonPreparee/index.php">Les requêtes non préparées</a></li>
+    <li><a href="4-accesDonnees/requetePreparee/index.php">Les requêtes préparées</a></li>
 <!--    <li><a href="4-accesDonnees/proceduresStockees/index.php">Les procédures stockées</a></li>-->
 <!--    <li><a href="4-accesDonnees/transactions/index.php">Les transactions</a></li>-->
 <!--    <li><a href="4-accesDonnees/tp1/index.php">TP 1 : Requêter une base de données</a></li>-->
-<!--</ol>-->
+</ol>
 <!--<h2>Les échanges de données entre le client et le serveur</h2>-->
 <!--<ol>-->
 <!--    <li><a href="5-clientserveur/redirections/index.php">Redirections</a></li>-->
