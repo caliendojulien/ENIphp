@@ -31,7 +31,7 @@
     <li><a href="2-poo/heritage/index.php">L'héritage</a></li>
     <li><a href="2-poo/static/index.php">Les attributs et méthodes de classe</a></li>
     <li><a href="2-poo/classeAbstraite/index.php">Les classes abstraites</a></li>
-<!--    <li><a href="2-poo/tp1/index.php">TP 1 : classes</a></li>-->
+    <li><a href="2-poo/tp1/index.php">TP 1 : classes</a></li>
     <li><a href="2-poo/interface/index.php">Les interfaces</a></li>
     <li><a href="2-poo/exceptions/index.php">Les exceptions</a></li>
 <!--    <li><a href="2-poo/namespace/index.php">Les espaces de nom (namespace)</a></li>-->
@@ -39,13 +39,13 @@
     <li><a href="2-poo/autoLoad/index.php">Le chargement automatique des classes</a></li>
 <!--    <li><a href="2-poo/clone/index.php">Le clonage d'une classe</a></li>-->
 </ol>
-<!--<h2>Les formulaires</h2>-->
-<!--<ol>-->
-<!--    <li><a href="3-formulaires/traitementAPart/index.php">Les Formulaires avec traitement à part</a></li>-->
-<!--    <li><a href="3-formulaires/generationForm/index.php">La Génération d'un formulaire</a></li>-->
-<!--    <li><a href="3-formulaires/traitementIntegre/index.php">Les Formulaires avec traitement intégré</a></li>-->
+<h2>Les formulaires</h2>
+<ol>
+    <li><a href="3-formulaires/traitementAPart/index.php">Les Formulaires avec traitement à part</a></li>
+    <li><a href="3-formulaires/generationForm/index.php">La Génération d'un formulaire</a></li>
+    <li><a href="3-formulaires/traitementIntegre/index.php">Les Formulaires avec traitement intégré</a></li>
 <!--    <li><a href="3-formulaires/tp1/index.php">TP 1 : Formulaires</a></li>-->
-<!--</ol>-->
+</ol>
 <!--<h2>L'accès aux données avec PDO</h2>-->
 <!--<ol>-->
 <!--    <li><a href="http://localhost/phpmyadmin/" target="new">PhpMyAdmin</a></li>-->
