@@ -54,16 +54,16 @@
     <li><a href="4-accesDonnees/requetePreparee/index.php">Les requêtes préparées</a></li>
 <!--    <li><a href="4-accesDonnees/proceduresStockees/index.php">Les procédures stockées</a></li>-->
 <!--    <li><a href="4-accesDonnees/transactions/index.php">Les transactions</a></li>-->
-<!--    <li><a href="4-accesDonnees/tp1/index.php">TP 1 : Requêter une base de données</a></li>-->
+    <li><a href="4-accesDonnees/tp1/index.php">TP 1 : Requêter une base de données</a></li>
 </ol>
-<!--<h2>Les échanges de données entre le client et le serveur</h2>-->
-<!--<ol>-->
-<!--    <li><a href="5-clientserveur/redirections/index.php">Redirections</a></li>-->
-<!--    <li><a href="5-clientserveur/cookies/index.php">Cookies</a></li>-->
-<!--    <li><a href="5-clientserveur/sessions/index.php">Sessions</a></li>-->
+<h2>Les échanges de données entre le client et le serveur</h2>
+<ol>
+    <li><a href="5-clientserveur/redirections/index.php">Redirections</a></li>
+    <li><a href="5-clientserveur/cookies/index.php">Cookies</a></li>
+    <li><a href="5-clientserveur/sessions/index.php">Sessions</a></li>
 <!--    <li><a href="5-clientserveur/ajax/index.php">AJAX</a></li>-->
-<!--    <li><a href="5-clientserveur/tp1/index.php">TP 1 : Échanges client-serveur</a></li>-->
-<!--</ol>-->
+    <li><a href="5-clientserveur/tp1/index.php">TP 1 : Échanges client-serveur</a></li>
+</ol>
 <!--<h2>TP Final</h2>-->
 <!--<a href="6-tpFinal/index.php">Création d'un mini Framework PHP</a>-->
 </body>
