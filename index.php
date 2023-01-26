@@ -64,6 +64,10 @@
 <!--    <li><a href="5-clientserveur/ajax/index.php">AJAX</a></li>-->
     <li><a href="5-clientserveur/tp1/index.php">TP 1 : Échanges client-serveur</a></li>
 </ol>
+<h2>Corrections non officielles</h2>
+<ol>
+    <li><a href="0-nonofficielles/main.php">Non officielles</a></li>
+</ol>
 <!--<h2>TP Final</h2>-->
 <!--<a href="6-tpFinal/index.php">Création d'un mini Framework PHP</a>-->
 </body>
