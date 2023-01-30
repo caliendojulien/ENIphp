@@ -23,5 +23,22 @@ afficheCode(['tva/index.php'], false, '');
 echo '<br />';
 afficheCode(['tva/traitement.php'], false, '');
 ?>
+<h2>TP final</h2>
+<?php
+require_once '../afficheCode.php';
+afficheCode(['tpfinal/bo/Restaurant.php'], false, '');
+echo '<br />';
+afficheCode(['tpfinal/dal/ConnexionSQL.php'], false, '');
+echo '<br />';
+afficheCode(['tpfinal/dal/Requete.php'], false, '');
+echo '<br />';
+afficheCode(['tpfinal/vue/vueDetails.php'], false, '');
+echo '<br />';
+afficheCode(['tpfinal/vue/vueRestaurants.php'], false, '');
+echo '<br />';
+afficheCode(['tpfinal/css/styles.css'], false, '');
+echo '<br />';
+afficheCode(['tpfinal/indeX.php'], false, '');
+?>
 </body>
 </html>
