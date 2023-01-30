@@ -59,7 +59,7 @@
 <ol>
     <li><a href="0-nonofficielles/main.php">Non officielles</a></li>
 </ol>
-<!--<h2>TP Final</h2>-->
-<!--<a href="6-tpFinal/index.php">Création d'un mini Framework PHP</a>-->
+<h2>TP Final</h2>
+<a href="6-tpFinal/index.php">TP final</a>
 </body>
 </html>
